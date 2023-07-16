@@ -1,8 +1,7 @@
-// cSpell Settings
 {
   "version": "0.2",
   "language": "en",
-  "words": ["Gantt", "Zenn"],
+  "words": ["Gantt", "LPIC", "LinuC", "Zenn"],
   "dictionaries": ["companies", "softwareTerms", "misc"],
   "useGitignore": true,
   "enableGlobDot": true,
