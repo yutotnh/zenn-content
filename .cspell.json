@@ -1,17 +1,18 @@
 {
-  "version": "0.2",
-  "language": "en",
-  "words": [
-    "Gantt",
-    "LinuC",
-    "LPIC",
-    "reviewdog",
-    "vscodeextension",
-    "yutotnh",
-    "Zenn"
-  ],
-  "dictionaries": ["companies", "softwareTerms", "misc"],
-  "useGitignore": true,
-  "enableGlobDot": true,
-  "ignorePaths": [".git"]
+    "version": "0.2",
+    "language": "en",
+    "words": [
+        "Gantt",
+        "LinuC",
+        "LPIC",
+        "nofilter",
+        "reviewdog",
+        "vscodeextension",
+        "yutotnh",
+        "Zenn"
+    ],
+    "dictionaries": ["companies", "softwareTerms", "misc"],
+    "useGitignore": true,
+    "enableGlobDot": true,
+    "ignorePaths": [".git"]
 }
