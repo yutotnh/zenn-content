@@ -22,7 +22,7 @@
     },
     "homepage": "https://github.com/yutotnh/zenn-content#readme",
     "dependencies": {
-        "zenn-cli": "^0.1.151"
+        "zenn-cli": "^0.1.152"
     },
     "devDependencies": {
         "prettier": "^3.2.4"
