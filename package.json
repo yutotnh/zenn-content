@@ -8,7 +8,8 @@
         "format": "prettier --write .",
         "new:article": "zenn new:article",
         "new:book": "zenn new:book",
-        "preview": "zenn preview"
+        "preview": "zenn preview",
+        "spell": "cspell ."
     },
     "repository": {
         "type": "git",
@@ -25,6 +26,7 @@
         "zenn-cli": "^0.1.153"
     },
     "devDependencies": {
+        "cspell": "^8.7.0",
         "prettier": "^3.2.5"
     }
 }
