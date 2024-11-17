@@ -27,6 +27,8 @@
         "rubout",
         "shiftjis",
         "sixel",
+        "stty",
+        "tput",
         "vscodeextension",
         "yutotnh",
         "Zenn"
