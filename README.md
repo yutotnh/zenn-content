@@ -24,8 +24,12 @@
 yarn zenn new:article
 ```
 
-## Preview
+### Preview
 
 ```bash
 yarn zenn preview
 ```
+
+## License
+
+- [MIT](./LICENSE)
