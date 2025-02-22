@@ -4,6 +4,7 @@ emoji: "📝"
 type: "idea"
 topics: ["資格", "linux", "lpic"]
 published: true
+published_at: "2025-02-25 6:00"
 ---
 
 LPIC-1 を受験し、無事合格したのでその体験記です。
