@@ -13,6 +13,7 @@
 - [コンテナ内でSELinuxを有効化する](./articles/807a8ec4ef47c9.md)
 - [Devcontainerでsystemdが動くコンテナを起動する](./articles/9e8a4ce455ac44.md)
 - [VS CodeのターミナルでCtrl+Backspaceが機能しない問題の解決策](./articles/b7ed8c09633003.md)
+- [【合格体験記】LPIC-1](./articles/lpic1-passing-experience.md)
 
 ## Zenn CLI
 
