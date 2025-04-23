@@ -23,7 +23,7 @@
     },
     "homepage": "https://github.com/yutotnh/zenn-content#readme",
     "dependencies": {
-        "zenn-cli": "^0.1.158"
+        "zenn-cli": "^0.1.159"
     },
     "devDependencies": {
         "cspell": "^8.17.5",
