@@ -26,7 +26,7 @@
         "zenn-cli": "^0.1.158"
     },
     "devDependencies": {
-        "cspell": "^8.17.5",
+        "cspell": "^8.19.4",
         "prettier": "^3.5.3"
     }
 }
