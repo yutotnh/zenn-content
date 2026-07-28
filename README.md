@@ -15,6 +15,14 @@
 - [VS CodeのターミナルでCtrl+Backspaceが機能しない問題の解決策](./articles/b7ed8c09633003.md)
 - [【合格体験記】LPIC-1](./articles/lpic1-passing-experience.md)
 
+## Setup
+
+```bash
+git clone https://github.com/yutotnh/zenn-content.git
+cd zenn-content
+npm install
+```
+
 ## Zenn CLI
 
 - [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)
