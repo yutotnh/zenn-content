@@ -22,13 +22,13 @@
 ### Create a new article
 
 ```bash
-yarn zenn new:article
+npm run new:article
 ```
 
 ### Preview
 
 ```bash
-yarn zenn preview
+npm run preview
 ```
 
 ## License
